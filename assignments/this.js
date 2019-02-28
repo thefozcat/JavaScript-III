@@ -28,7 +28,7 @@ const player = {
     }
 }
 
-console.log(player.description());
+player.description();
 
 // Principle 3
 
